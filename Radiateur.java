@@ -22,7 +22,7 @@ public class Radiateur {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) throws InterruptedException, MalformedURLException, IOException {
+    public static void main(String[] args) throws InterruptedException, MalformedURLException {
         // TODO code application logic here
           int c=0;
         while (c<5000)
